@@ -11,7 +11,7 @@ Git is a type of version control system (VCS) more specifically  a Distributed V
 + Tracking Changes
    + Every single change applied to any file or directory is tracked by Git
 
-------------------------------
+***
 ## its useful! 
 Git offers many functions beside tracking files like it does minimize the lost of data also it gives statues for the files 
 
