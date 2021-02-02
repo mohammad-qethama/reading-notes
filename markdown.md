@@ -54,4 +54,6 @@ A tool used to create pages using gethub repos creating url for it and giving so
 it uses an URL that tied to your account on github to get web related content from you without changing your code 
 
 ### building something more complicated 
-more ambitious project is available with the help of jkyell that gives you streamlined puplishing exprience 
+more ambitious project is available with the help of [jekyll](https://jekyllrb.com/) that gives you streamlined puplishing exprience 
+
+click [HERE](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) to access **GitHub Markdown Syntax**
