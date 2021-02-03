@@ -1,5 +1,6 @@
 # Introduction 
 This chapter guide how to process the making of new website by looking at some information and using tools and techniques to make your website appealing and successful also introducing design theory
+
 ***
 ## who is this site for? 
 answering this question needs to understand your target audience and by accruing some information about them like their :
@@ -11,6 +12,7 @@ answering this question needs to understand your target audience and by accruing
 and more , all of those should be taking in consideration in this process. 
 
 **book mentioned another set of criteria to be considered for target companies**
+
  ***
 ## More process's 
  the book detailed after that the rest of those process as questions and sub-questions i will mention them: 
@@ -19,6 +21,7 @@ and more , all of those should be taking in consideration in this process.
  1. what are they trying to achieve 
  1. what info they need 
  1. how often they will visit the website 
+
 ***
 # Site map 
 after accruing all the information above now we can do a site map which is a diagram of pages that will be used to structure the site. 
@@ -30,10 +33,13 @@ this can be done **by:**
 3. Groups will be diagramed into **site map**
 
 ### Example : 
+
 ***
+
 ![Sitemap](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2slcw3kip6qmk.cloudfront.net%2Fmarketing%2Fblogs%2Fchart%2Fhow-to-make-a-site-map%2Fsite_map_example2-700x533.PNG&f=1&nofb=1)
 
 ***
+
 # Wireframes 
 
 A **wireframe** is a simple sketch of the key information that needs to go on each page of a site
@@ -56,6 +62,7 @@ How to make wireframes:
 
 
 ![wireframes](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fexecutionists.com%2Fwp-content%2Fuploads%2F2015%2F10%2Fwireframes.jpg&f=1&nofb=1)
+
 ***
 # Design 
 Primary usage of design is to communicate , helping the user to read the site by organizing and ordering priorities. 
@@ -69,6 +76,7 @@ Primary usage of design is to communicate , helping the user to read the site by
    * Grouping together related content into blocks or chunks makes the page look simpler
 
 ***
+
  ### Visual hierarchy
    * Size
       * Larger element attract people attention 
@@ -78,6 +86,7 @@ Primary usage of design is to communicate , helping the user to read the site by
    * Elements Differ in style form its surrounding drags more attention 
 
 ***
+
 ### Grouping and organizing 
 which is simply grouping similar elemnts togther in a certain styles that the author states in page (469)
 
