@@ -2,7 +2,10 @@
 
 a grouped commands that do certain task. 
 
+## Notes on functions 
+
 * Functions helps to make your code organized and easier to read also they are reusable for the same code.
+
    * Functions are called within the code when ever they needed ""`functionname();`"" i.e provoking the function.
 
 * Some function needs a Parameter which is a piece of information the function use. 
