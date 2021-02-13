@@ -1,23 +1,34 @@
-# Salam 
+# ***Code 201 Reading Notes***
+## Introduction 
+this will contain a table of content with all of my MD files in code 201.
 
-Salam, I am Mohammad Quthama an electrical engineer who is trying to be a developer; a very good developer. 
+### **Table of content** 
+**Page title**  | **URL** 
+-------------| -------------
+Markdown language | [here](https://mohammad-qethama.github.io/reading-notes/class-01)|
 
-# Growth mindset in my mind 
 
-i think a growth mindset is a way to always look for a positive side not happy side a ***positive*** one.
- 
-you should does not like having difficulties thats what hard wired in us but to challenge your self find a solution think logically and take a positive futuristic look of the current situation consequences is a very smart mindset that would allow you to grow ; a **growth mindset**. 
-_______________________________
-# My growth mindset 
 
-to maintain this mindset i think that i need to remind myself to : 
 
-1. do not be too harsh on myself 
-   * failure is a human nature, a way to learn 
-2. set up a goal 
-   * keep in my mind most of the benefits come from the journey not the arrival. 
-3. seek help 
-   * take criticizes and work on improving
-__________________
+***
 
-[**My GitHub portfolio page**](https://github.com/mohammad-qethama)
+# ***Code 102 Reading Notes*** 
+
+## Introduction 
+this will contain a table of content with all of my MD files in code 102.
+
+### **Table of content** 
+
+
+**Page title**  | **URL** 
+-------------| -------------
+Markdown language | [here](https://mohammad-qethama.github.io/reading-notes/markdown)|
+Linux terminal commands cheat-sheet  | [here](https://mohammad-qethama.github.io/reading-notes/cheatsheet)
+My revision of git | [here](https://mohammad-qethama.github.io/reading-notes/git)|
+Text editor choosing|[here](https://mohammad-qethama.github.io/reading-notes/texteditor)|
+Starting with JavaScript | [here](https://mohammad-qethama.github.io/reading-notes/JSPT1)
+Loops and operatinos in JS | [here](https://mohammad-qethama.github.io/reading-notes/operationsandloops)
+Functions in JS | [here](https://mohammad-qethama.github.io/reading-notes/Functions)
+Colors in CSS | [here](https://mohammad-qethama.github.io/reading-notes/colorcss)
+HTML Proscess & Design | [here](https://mohammad-qethama.github.io/reading-notes/chapter18)
+HTML5 Layout and HTML extra markup |[here](https://mohammad-qethama.github.io/reading-notes/chapter816)
