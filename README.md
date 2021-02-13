@@ -5,8 +5,10 @@ this will contain a table of content with all of my MD files in code 201.
 ### **Table of content** 
 
 **Page title**  | **URL** 
--------------| -------------
-Markdown language | [here](https://mohammad-qethama.github.io/reading-notes/class-01)|
+-------------|-------------
+Markdown language | [here](https://mohammad-qethama.github.io/reading-notes/class-01)
+
+
 
 
 
