@@ -1,8 +1,8 @@
-# Structure
+# **Structure**
 
 webpages are built like their paper ancestors document so the need to be giving a structure to help the reader navigates through it. 
 
-# HTML 
+## HTML 
 
  Hyper-Text Markup  Language describes the structure of the webpage using **eLements**  which are made up of two tags open tag `<p>` and closing tag `</p>` with content be inside of them 
 
@@ -14,7 +14,7 @@ webpages are built like their paper ancestors document so the need to be giving 
 + attributes is added to describe the element a little bit more : ```<p attr='this is a paragraph` lang = `english-uk`> indeed i am one </p>```.
     + Attributes require a name and a value.
 
-# illustration 
+## illustration 
 ```
 <head>
 <!-- here we but informations about the page  -->
@@ -27,7 +27,10 @@ webpages are built like their paper ancestors document so the need to be giving 
 <!-- everything the users see will be here -->
 </body>
 ```
-# Extra markup 
+
+***
+
+# **Extra markup**
 
 ## DOCTYPE
 `DOCTYPE` tag is used as a declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
@@ -81,7 +84,11 @@ cycle of four Hiroshi Sugimoto exhibitions.</p>
      &#60;|`&#60;` 
     &copy;|`&copy;`
 
-# HTML5 Layout
+
+****
+
+
+# **HTML5 Layout**
  HTML 5 introduced a new set of elements that helps the webpage author with describing  the structure of the webpage 
  
  ## `<div>` elements 
@@ -159,7 +166,9 @@ using versions of IE below IE9 , you need to use a simple JavaScript known as th
 
 ***
 
-# Introduction 
+# **Process & Design**
+
+## Introduction 
 This chapter guide how to process the making of a new website by looking at some information and using tools and techniques to make your website appealing and successful also introducing design theory
 
 ***
