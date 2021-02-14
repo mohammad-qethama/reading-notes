@@ -94,14 +94,15 @@ p {
 CSS can be used by: 
 1. External CSS 
      * linking an external .CSS file 
- ```
-<head>
-    <title>Using External CSS</title>
-    <link href="css/styles.css" type="text/css"
-    rel="stylesheet" />
-</head>
+ 
+    ```
+    <head>
+        <title>Using External CSS</title>
+        <link href="css/styles.css" type="text/css"
+        rel="stylesheet" />
+    </head>
 
-```
+    ```
 
 2. Internal CSS 
    * Using style tag `<style></style>` 
