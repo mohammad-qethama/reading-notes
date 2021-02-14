@@ -96,11 +96,11 @@ CSS can be used by:
      * linking an external .CSS file 
  
     ```
-    <head>
-        <title>Using External CSS</title>
-        <link href="css/styles.css" type="text/css"
-        rel="stylesheet" />
-    </head>
+        <head>
+            <title>Using External CSS</title>
+            <link href="css/styles.css" type="text/css"
+            rel="stylesheet" />
+        </head>
 
     ```
 
