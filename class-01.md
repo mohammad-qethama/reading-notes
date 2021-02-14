@@ -273,4 +273,94 @@ Good navigation tends to follow these principles:
 3. Selective 
    * Hide sections like "terms and conditions' and login elsewhere on the page.  
 
+***
+
+# Java Script 
+## Defintions 
+
+JS : its a programing language can be used to make websites more interactive , interesting and user friendly . 
+
+JQuery : its a library that makes JS easer to use 
+
+## Process of learning JS 
+
+The process of learning JS includes 
+
+1. understanding some basic programming concepts.
+
+
+2. learning the language itself (syntax , rules , etc..).
+
+3. learn how to apply it.
+
+## JS usage 
+
+JS can be used to : 
+* Access content
+   * Selecting any element, text, or  attributes.
+
+* Modify element 
+   * Add/Remove any element, text, or attribute.
+
+* Program rules 
+   * specify a set of steps for browser to follow.
+
+* React to an event 
+   * if event accured it will trigger certain script 
+
+## Scripts 
+Scripts are made up of instructions for computer to follow. 
+***
+Scripts can be like : 
+* Recipe
+   * can deal with simple scenario 
+* Handbook 
+   * can deal with multiple/complex scenarios 
+* Manual 
+   * To do Testing and create test benches 
+
+### Script writing steps : 
+
+1. define the goal
+   * what is the purpose of writing the script.
+1. design the script
+   * using Flowcharts then write down the working steps.
+1. code each step 
+   * doing the actual coding 
+
+## Objects 
+ 1. programmers represent the real world things as an **objects** for the computer 
+ 2. those objects can have many details added to them 
+     * properties 
+     * methods 
+     * events 
+
+ 3. instance is the number of objects that had the same label / object name 
+ 
+ ### properties 
+ characteristics of the object , each one had name and value.
+
+ ### events 
+ its a change that happens that might trigger certain action if it accurse.
+ ### Methode 
+ is how people interact with the object , like getting info about it or changing value(s) of its properties.
+
+ ### They all connected ! 
+
+ >" Computers use data to create models of things in the real world.
+The events, methods, and properties of an object all relate to each other:
+Events can trigger methods, and methods can retrieve or update an
+object's properties"
+> 
+>JAVASCRIPT & JQUERY , John Duckett , Page 34
+
+## How web browser handles the webpage 
+
+in order to use JS to change HTML page you need to understand how a browser execute HTML code and how it applies styling to it
+1. Receive page as HTML 
+2. Create a model of create a model of it in memory
+3. Render the page on Screen 
+
+
+
 
