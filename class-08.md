@@ -1,5 +1,6 @@
 # class-08
-o is the default flow set for element  key-value---> `Position:Static;`.
+
+* normal flow is the default flow set for element  key-value---> `Position:Static;`.
 
 * Relative flow makes elements flow relative to its normal flow position `position:relative;` and other key values added `top` `bottom` `right` `left`.
 
@@ -21,5 +22,3 @@ o is the default flow set for element  key-value---> `Position:Static;`.
 * fixed layout display the same on all resolutions.
 
 * liquid layouts that adapt to the change in resolution and change accordingly.
-
-* 
