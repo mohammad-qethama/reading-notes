@@ -53,4 +53,36 @@ maxlength="30" />
 
 + `'name'` atrr used to tell the user what is this text that will be send to it , its like a header info.
 
++ `'maxlength'` attr used to limit the input to a maximum value,  '`30` in this example'.
+
+***
+
+## forms tables and lists (CSS)
+
+there are many way to style alot of HTML element on CSS here are some for the `forms` `tables` and `list` elemnts .
+
+### lists
+
++ lists '`<ul></ul>`and `<ol></ol>`' elements `<li>` bullets can be changed to style them by `list-style-type: /*place value*/;` or by images using `list-style-img:*/URL here/*`.
+
++ you can position lists bullets/marker using `list-style-position: ;`; two options are valid : outside and inside.
+
++ `list-style:` is short hand to all of the above.
+
+### Tables
+
++ table can uses `width`, `padding`,`font-size`, properties and more.
+
++ `empty cell:` property can be used to style empty cells border in your table,values `show`,`hide`,and `inherit`.
+
++ `border-spacing, border-collapse` used to determine spaces between cell.
+
+### Forms 
+
++ Text in forms can be styled like normal text so text propirtes can be used . 
+
+***
+
+## Events (JS)
+
 
