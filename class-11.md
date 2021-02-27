@@ -1,6 +1,5 @@
 # Class 11
 
-<!-- notes for chapter 5 and 19 in html and css ducketbook -->
 
 ## Images (HTML)
 
@@ -26,18 +25,17 @@ there are many reason makes adding images to the website an appealing thing to d
 
 * `<figcaption>` used to add caption to the images used along the `<figure>` father tag.
 
-
 ***
 
 ## Practical Information
 
 1. SEO (Search Engine Optimization) is a very large topic that is covered in many books.
-   * SEO is done to help the page to appear on the top of the search engines result. 
+   * SEO is done to help the page to appear on the top of the search engines result.
    * On-page techniques are the methods you can use on your web pages to improve their rating in search engines
-   * Off-page techniques getting other sites to link to yours. 
+   * Off-page techniques getting other sites to link to yours.
 
-2. on-page techniques, the engine will look in your page at : 
-   * `<title>` tag content its lays in the `<head>` parent section of the HTML construction. 
+2. on-page techniques, the engine will look in your page at :
+   * `<title>` tag content its lays in the `<head>` parent section of the HTML construction.
    * Name of the HTML file which is part of your address URL.
    * `<hn>` heading tags.
    * text; its helpfull to repeat keyword 2-3 times in your texts.
@@ -45,7 +43,7 @@ there are many reason makes adding images to the website an appealing thing to d
    * img altr ; helps the SE to understand what is the content of your image.
    * page description; the layed in the `<meta>` tags in the `<head>`.
 
-3. Keywords selection  procedure. 
+3. Keywords selection  procedure.
    * Brainstorm; list down key words and use them on the SE to have a rough estimation of their impact on your page order.
    * Organize
    * Use tools like [Googles-Adword key-word tool.](adwords.google.co.uk/select/KeywordToolExternal)
@@ -54,5 +52,3 @@ there are many reason makes adding images to the website an appealing thing to d
 
    * Refine, pick the keywords for each section of the site.
    * Map ;Pick 3-5 keywords or phrases that map to each page of your website and use these as the keywords for each page.
-
-   
