@@ -53,6 +53,3 @@
 * `transform:skew*()` used to distort elements on the horizontal axis, vertical axis, or both.
 
 * 3D transform is done by adding a z-axis parameter to the 2D's x and y axises parameters.
-
-* 
- 
