@@ -14,3 +14,4 @@
 
 * effecting and understanding group-norms was the key to improve google's teams.
 
+* one should care about others emotion and mental state and should never ignore  his own.

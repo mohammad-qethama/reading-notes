@@ -54,4 +54,3 @@
 
 * 3D transform is done by adding a z-axis parameter to the 2D's x and y axises parameters.
 
-* one should care about others emotion and mental state and should never ignore  his own.
