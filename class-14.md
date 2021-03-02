@@ -39,17 +39,19 @@
 
 * `animation-direction` used with `animation-iteration-count` to specify  the titrations animation direction.
 
-* `animation-play-state` used to play or pause animations. 
+* `animation-play-state` used to play or pause animations.
 
-*** 
+***
 
 * `transform:rotate();` The rotate value provides the ability to rotate an element from 0 to 360 degrees
   * positive angel it will rotate clock-wise ,counterclockwise if negative.
 
-* `transform:scale()` : change the appearing size for an element. 
+* `transform:scale()` : change the appearing size for an element.
 
-* `transform:translate*()` used to push element from its place. 
+* `transform:translate*()` used to push element from its place.
 
 * `transform:skew*()` used to distort elements on the horizontal axis, vertical axis, or both.
 
 * 3D transform is done by adding a z-axis parameter to the 2D's x and y axises parameters.
+
+* one should care about others emotion and mental state and should never ignore  his own.
