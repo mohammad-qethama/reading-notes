@@ -11,6 +11,7 @@ Notes For 401 course  will be linked below.
 ## Code 301 - Intermediate Software Development
 
 Notes For 301 course  will be linked below.
+[RWD & Float](https://mohammad-qethama.github.io/reading-notes/SMACSS)
 
 ***
 
