@@ -12,7 +12,7 @@ Notes For 401 course  will be linked below.
 
 Notes For 301 course  will be linked below.
 [RWD & Float](https://mohammad-qethama.github.io/reading-notes/SMACSS)
-
+[jQuery, Events, and The DOM](https://mohammad-qethama.github.io/reading-notes/JQ)
 ***
 
 ## Code 201 - Foundations of Software Development
