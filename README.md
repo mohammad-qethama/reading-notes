@@ -15,6 +15,7 @@ Notes For 301 course  will be linked below.
 1. [RWD & Float](https://mohammad-qethama.github.io/reading-notes/SMACSS)
 2. [jQuery, Events, and The DOM](https://mohammad-qethama.github.io/reading-notes/JQ)
 3. [Mustach.js & flexbox](https://mohammad-qethama.github.io/reading-notes/Flex)
+4. [Grid](https://mohammad-qethama.github.io/reading-notes/grid)
 
 ***
 
