@@ -17,7 +17,8 @@ Notes For 301 course  will be linked below.
 3. [Mustach.js & flexbox](https://mohammad-qethama.github.io/reading-notes/Flex)
 4. [Grid](https://mohammad-qethama.github.io/reading-notes/grid)
 5. [Heroku setup](https://mohammad-qethama.github.io/reading-notes/hero)
-6.[Node.js](https://mohammad-qethama.github.io/reading-notes/node)
+6. [Node.js](https://mohammad-qethama.github.io/reading-notes/node)
+7. [REST](https://mohammad-qethama.github.io/reading-notes/rest)
 
 
 ***
