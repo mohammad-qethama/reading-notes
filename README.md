@@ -19,7 +19,7 @@ Notes For 301 course  will be linked below.
 5. [Heroku setup](https://mohammad-qethama.github.io/reading-notes/hero)
 6. [Node.js](https://mohammad-qethama.github.io/reading-notes/node)
 7. [REST](https://mohammad-qethama.github.io/reading-notes/rest)
-8. [callStack](https://mohammad-qethama.github.io/reading-notes/callStack)
+8. [callStack](https://mohammad-qethama.github.io/reading-notes/call)
 
 
 ***
