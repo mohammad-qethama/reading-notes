@@ -20,6 +20,7 @@ Notes For 301 course  will be linked below.
 6. [Node.js](https://mohammad-qethama.github.io/reading-notes/node)
 7. [REST](https://mohammad-qethama.github.io/reading-notes/rest)
 8. [callStack](https://mohammad-qethama.github.io/reading-notes/call)
+9. [DB normalization](https://mohammad-qethama.github.io/reading-notes/db)
 
 
 ***
