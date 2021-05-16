@@ -5,6 +5,7 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 ## Code 401 - Advanced Software Development
 
 1. [Prep Reads](https://mohammad-qethama.github.io/reading-notes/prep401)
+2. [Express](https://mohammad-qethama.github.io/reading-notes/401-class-02)
 
 Notes For 401 course  will be linked below.
 
