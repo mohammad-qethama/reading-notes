@@ -8,6 +8,9 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 2. [Express](https://mohammad-qethama.github.io/reading-notes/401-class-02)
 3. [REST-401](https://mohammad-qethama.github.io/reading-notes/401-class-03)
 
+4. [linked-lists](https://mohammad-qethama.github.io/reading-notes/401-class-05)
+
+
 Notes For 401 course  will be linked below.
 
 ***
