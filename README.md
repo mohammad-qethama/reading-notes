@@ -7,9 +7,10 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 1. [Prep Reads](https://mohammad-qethama.github.io/reading-notes/prep401)
 2. [Express](https://mohammad-qethama.github.io/reading-notes/401-class-02)
 3. [REST-401](https://mohammad-qethama.github.io/reading-notes/401-class-03)
-
 4. [linked-lists](https://mohammad-qethama.github.io/reading-notes/401-class-05)
 5. [Authentications and passwords](https://mohammad-qethama.github.io/reading-notes/401-class-06)
+6. [Bearer Authentication](https://mohammad-qethama.github.io/reading-notes/401-class-07)
+7. [class-08](https://mohammad-qethama.github.io/reading-notes/401-class-08)
 
 Notes For 401 course  will be linked below.
 
