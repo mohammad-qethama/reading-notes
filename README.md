@@ -4,6 +4,8 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 
 ## Code 401 - Advanced Software Development
 
+Notes For 401 course  will be linked below.
+
 1. [Prep Reads](https://mohammad-qethama.github.io/reading-notes/prep401)
 2. [Express](https://mohammad-qethama.github.io/reading-notes/401-class-02)
 3. [REST-401](https://mohammad-qethama.github.io/reading-notes/401-class-03)
@@ -15,8 +17,7 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 9. [Event Driven programming](https://mohammad-qethama.github.io/reading-notes/401-class-11)
 10. [Socket.io](https://mohammad-qethama.github.io/reading-notes/401-class-12)
 11. [Event Driven Architecture](https://mohammad-qethama.github.io/reading-notes/401-class-14)
-
-Notes For 401 course  will be linked below.
+12. [AWS: Cloud Servers](https://mohammad-qethama.github.io/reading-notes/401-class-15)
 
 ***
 
