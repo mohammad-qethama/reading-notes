@@ -18,6 +18,8 @@ Notes For 401 course  will be linked below.
 10. [Socket.io](https://mohammad-qethama.github.io/reading-notes/401-class-12)
 11. [Event Driven Architecture](https://mohammad-qethama.github.io/reading-notes/401-class-14)
 12. [AWS: Cloud Servers](https://mohammad-qethama.github.io/reading-notes/401-class-15)
+13. [AWS:S3 and Lambda](https://mohammad-qethama.github.io/reading-notes/401-class-16)
+
 
 ***
 
