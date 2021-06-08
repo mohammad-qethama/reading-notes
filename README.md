@@ -20,8 +20,7 @@ Notes For 401 course  will be linked below.
 12. [AWS: Cloud Servers](https://mohammad-qethama.github.io/reading-notes/401-class-15)
 13. [AWS:S3 and Lambda](https://mohammad-qethama.github.io/reading-notes/401-class-16)
 14. [AWS: API, Dynamo and Lambda](https://mohammad-qethama.github.io/reading-notes/401-class-17)
-
-
+15. [AWS: Events](https://mohammad-qethama.github.io/reading-notes/401-class-18)
 
 ***
 
