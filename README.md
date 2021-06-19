@@ -4,7 +4,7 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 
 ## Code 401 - Advanced Software Development
 
-Notes For 401 course  will be linked below.
+### Nodejs/Express.js Notes
 
 1. [Prep Reads](https://mohammad-qethama.github.io/reading-notes/prep401)
 2. [Express](https://mohammad-qethama.github.io/reading-notes/401-class-02)
@@ -21,6 +21,13 @@ Notes For 401 course  will be linked below.
 13. [AWS:S3 and Lambda](https://mohammad-qethama.github.io/reading-notes/401-class-16)
 14. [AWS: API, Dynamo and Lambda](https://mohammad-qethama.github.io/reading-notes/401-class-17)
 15. [AWS: Events](https://mohammad-qethama.github.io/reading-notes/401-class-18)
+
+***
+
+### React.js/SCSS Notes
+
+1. [Component Based UI](https://mohammad-qethama.github.io/reading-notes/401-class-26)
+
 
 ***
 
