@@ -27,6 +27,8 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 ### React.js/SCSS Notes
 
 1. [Component Based UI](https://mohammad-qethama.github.io/reading-notes/401-class-26)
+1. [Component Based UI](https://mohammad-qethama.github.io/reading-notes/401-class-27)
+
 
 
 ***
