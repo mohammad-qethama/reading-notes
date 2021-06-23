@@ -29,6 +29,7 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 1. [Component Based UI](https://mohammad-qethama.github.io/reading-notes/401-class-26)
 2. [Props and State](https://mohammad-qethama.github.io/reading-notes/401-class-27)
 3. [Component Composition](https://mohammad-qethama.github.io/reading-notes/401-class-28)
+4. [Hash table](https://mohammad-qethama.github.io/reading-notes/401-class-30)
 
 ***
 
