@@ -32,6 +32,8 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 4. [Hash table](https://mohammad-qethama.github.io/reading-notes/401-class-30)
 5. [Hooks API table](https://mohammad-qethama.github.io/reading-notes/401-class-31)
 6. [Custom Hooks](https://mohammad-qethama.github.io/reading-notes/401-class-32)
+7. [Context API](https://mohammad-qethama.github.io/reading-notes/401-class-33)
+
 
 ***
 

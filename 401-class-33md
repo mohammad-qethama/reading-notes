@@ -1,0 +1,34 @@
+# Readings: Context API
+
+## Review, Research, and Discussion
+
+1. Describe use cases for useMemo() and useReducer()?
+   * useMemo() helps to avoid expensive calculations on every rerunder
+   * useMemo() thus used to speed up our website
+   * useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one.
+
+2. Why do custom hooks need the use prefix?  to help static analyzer to warn for errors.
+
+3. What do custom hooks usually do? its a hook that calls another hooks and do certain functionality with them
+
+4. Using any list of custom hooks, research and name one that you think will be useful in your applications? react-redux
+
+5. Describe how a hook that fetches API data might work. it will setState when we add/edit/delete data and read the state after setting it when we get it from the api
+
+## Document the following Vocabulary Terms
+
+1. reducer : is a function that determines changes to an application's state. It uses the action it receives to determine this change.
+
+* Which 3 things had you heard about previously and now have better clarity on?
+
+   1. reducer  .
+   2. useMemo.
+   3. redux.
+
+* Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+
+1. the proper usage of context .
+2. useful custom-hooks packages  .
+3. useCallBack and useMemo  as the examples in the reads are really poor .
+
+What are you most excited about trying to implement or see how it works? optimizing the code and why do i need context and who to use them .
