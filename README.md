@@ -35,8 +35,7 @@ this will contain the links for all my reading notes pages in my ASAC-CodeFellow
 7. [Context API](https://mohammad-qethama.github.io/reading-notes/401-class-33)
 8. [Application State with Redux](https://mohammad-qethama.github.io/reading-notes/401-class-34)
 9. [Redux - Asynchronous Actions](https://mohammad-qethama.github.io/reading-notes/401-class-35)
-
-
+10. [React Native](https://mohammad-qethama.github.io/reading-notes/401-class-36)
 
 ***
 
